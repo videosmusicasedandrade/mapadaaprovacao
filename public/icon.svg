@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="112" fill="#1D4ED8"/>
+  <rect x="36" y="36" width="440" height="440" rx="84" fill="#1E40AF" fill-opacity="0.45"/>
+  <!-- Winding road map motif -->
+  <path d="M132 392C146 318 202 308 256 266C308 225 344 196 368 124" stroke="#FFFFFF" stroke-width="52" stroke-linecap="round"/>
+  <path d="M132 392C146 318 202 308 256 266C308 225 344 196 368 124" stroke="#F59E0B" stroke-width="10" stroke-linecap="round" stroke-dasharray="18 22"/>
+  <!-- Checkmark pin badge -->
+  <circle cx="364" cy="140" r="64" fill="#15803D" stroke="#FFFFFF" stroke-width="14"/>
+  <path d="M336 140L355 159L394 120" stroke="#FFFFFF" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Steering wheel emblem bottom left -->
+  <circle cx="152" cy="158" r="46" stroke="#FFFFFF" stroke-width="14"/>
+  <circle cx="152" cy="158" r="10" fill="#FFFFFF"/>
+  <path d="M114 158H190M152 158V200" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round"/>
+</svg>

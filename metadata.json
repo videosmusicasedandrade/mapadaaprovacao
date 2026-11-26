@@ -1,0 +1,6 @@
+{
+  "name": "Mapa da Aprovação CNH — R$ 5/mês",
+  "description": "Aplicativo interativo de estudo para a prova teórica da CNH com 32 questões ilustradas, Mapas da Resposta, prevenção de pegadinhas, simulado completo e notificações diárias de perguntas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
